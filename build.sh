@@ -6,3 +6,4 @@ npm run compile
 npm run lint
 npm test
 mvn clean install
+mvn package -P packaging,!default

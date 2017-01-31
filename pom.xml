@@ -32,7 +32,12 @@
       <modules>
         <module>web</module>
       </modules>
-
+    </profile>
+    <profile>
+      <id>packaging</id>
+      <modules>
+          <module>package</module>
+      </modules>
     </profile>
   </profiles>
 
